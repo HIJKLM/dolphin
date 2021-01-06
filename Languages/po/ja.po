@@ -777,7 +777,7 @@ msgstr ""
 
 #: Source/Core/DolphinQt/Config/ControllersWindow.cpp:370
 msgid "A sync can only be triggered when a Wii game is running."
-msgstr "WiiリモコンとのSyncはWiiのゲームを実行中にのみ行なえます"
+msgstr "WiiリモコンとのSyncはWiiのゲームを実行中にのみ行えます"
 
 #: Source/Core/DolphinQt/NetPlay/NetPlaySetupDialog.cpp:115
 msgid ""
@@ -2290,16 +2290,16 @@ msgid ""
 "Could not download update files from Nintendo. Please check your Internet "
 "connection and try again."
 msgstr ""
-"更新ファイルのダウンロードに失敗。インターネット接続設定を確認してから改めて"
-"試してください"
+"更新ファイルのダウンロードに失敗しました。インターネット接続設定を確認してか"
+"ら改めて試してください"
 
 #: Source/Core/DolphinQt/WiiUpdate.cpp:44
 msgid ""
 "Could not download update information from Nintendo. Please check your "
 "Internet connection and try again."
 msgstr ""
-"更新情報のダウンロードに失敗。インターネット接続設定を確認してから改めて試し"
-"てください"
+"更新情報のダウンロードに失敗しました。インターネット接続設定を確認してから改"
+"めて試してください"
 
 #: Source/Core/Core/IOS/USB/Bluetooth/BTReal.cpp:123
 msgid ""
@@ -2322,8 +2322,8 @@ msgid ""
 "Could not install an update to the Wii system memory. Please refer to logs "
 "for more information."
 msgstr ""
-"更新ファイルのWiiシステムメモリへのインストールに失敗。ログで詳細を確認してく"
-"ださい"
+"更新ファイルのWiiシステムメモリへのインストールに失敗しました。ログで詳細を確"
+"認してください"
 
 #: Source/Core/Core/IOS/ES/ES.cpp:278
 msgid ""
@@ -7464,7 +7464,7 @@ msgstr "保存"
 
 #: Source/Core/DolphinQt/Config/ControllersWindow.cpp:352
 msgid "Saved Wii Remote pairings can only be reset when a Wii game is running."
-msgstr "ペアリングの初期化はWiiのゲームを実行中にのみ行なえます"
+msgstr "ペアリングの初期化はWiiのゲームを実行中にのみ行えます"
 
 #: Source/Core/Core/Movie.cpp:954
 msgid "Savestate movie {0} is corrupted, movie recording stopping..."
